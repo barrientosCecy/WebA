@@ -107,14 +107,13 @@ figure{
 
 #scrollUp{
 	bottom: 20px;
-	right: 40px;
-	width: 50px;
+	right: 30px;
+	width: 30px;
 	height: 40px;
 	padding: 10px;
-	background-color: #555;
+	background-color: #FFFFFF;
 	background-image: url(../img/up.png);
 	color: #FFF;
-
 
 }
 
