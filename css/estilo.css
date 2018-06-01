@@ -109,6 +109,7 @@ figure{
 	bottom: 20px;
 	right: 30px;
 	padding: 10px;
+	background-color: none;
 	background-image: url(../img/up.png);
 	padding-bottom: 30px;
 	margin-right: 30px;
