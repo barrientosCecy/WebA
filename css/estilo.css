@@ -108,6 +108,7 @@ figure{
 #scrollUp{
 	bottom: 20px;
 	right: 30px;
+	width: 40px;
 	padding: 10px;
 	background-color: none;
 	background-image: url(../img/up.png);
