@@ -106,14 +106,14 @@ figure{
 }
 
 #scrollUp{
-	bottom: 30px;
-	right: 40px;
-	width: 40px;
-	padding: 10px;
+	bottom: 20px;
+	right: 20px;
+	padding: 10px 20px;
 	background-color: none;
 	background-image: url(../img/up.png);
 	padding-bottom: 40px;
 	margin-right: 20px;
+	color: #fff;
 
 }
 
